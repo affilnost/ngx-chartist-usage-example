@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('ngx-chartist-example-usage App', () => {
+describe('ngx-chartist-usage-example App', () => {
   let page: AppPage;
 
   beforeEach(() => {

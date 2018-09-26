@@ -1,5 +1,5 @@
 {
-  "name": "ngx-chartist-example-usage",
+  "name": "ngx-chartist-usage-example",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build-gh": "ng build --prod --base-href \"/ngx-chartist/\"",
+    "build-gh": "ng build --prod --base-href \"/ngx-chartist-usage-example/\"",
     "deploy-to-ghpages": "npm run build-gh && ngh"
   },
   "private": true,
@@ -26,7 +26,7 @@
     "@types/chartist": "^0.9.42",
     "chartist": "^0.11.0",
     "core-js": "^2.4.1",
-    "ngx-chartist": "^0.0.5",
+    "ngx-chartist": "^0.0.9",
     "rxjs": "^6.3.3",
     "zone.js": "^0.8.26"
   },
